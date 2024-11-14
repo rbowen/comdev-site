@@ -13,7 +13,7 @@ apps that used to be on https://community.zones.apache.org/
 ## community.zones.a.o has been disabled
 
 We used to have a few apps meant to help find speakers and mentors
-on the community.zones.apache.org server , but those have been disabled
+on the community.zones.apache.org server, but those have been disabled
 in Feburary 2024 as they were not enthusiastically maintained.
 
 The pages tagged with
